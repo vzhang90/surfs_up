@@ -5,6 +5,8 @@ W. Avy would like more information about temperature trends before opening the s
 
 ## Results
 The summary statistics for June's temperature can be seen below in comparison to December's
+  
+ 
 ![june_temps}(https://github.com/vzhang90/surfs_up/blob/main/june_temps.png) | ![dec_temps](https://github.com/vzhang90/surfs_up/blob/main/dec_temps.png)
 
 - The month of June has significantly average higher temperatures than that of December
