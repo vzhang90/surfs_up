@@ -4,5 +4,7 @@ W. Avy would like more information about temperature trends before opening the s
 ## Overview of statistical analysis
 
 ## Results
+![dec_temps](https://github.com/vzhang90/surfs_up/blob/main/dec_temps.png)
+
 
 ## Summary
