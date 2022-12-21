@@ -10,6 +10,8 @@ The summary statistics for June's temperature can be seen below in comparison to
 ![june_temps](https://github.com/vzhang90/surfs_up/blob/main/june_temps.png)  ![dec_temps](https://github.com/vzhang90/surfs_up/blob/main/dec_temps.png)
 
 - The month of June has significantly average higher temperatures than that of December
-- The higher standard deviation of December indicates increased temperature variation despite the lower min & max temperature compared to June
+- The higher standard deviation of December indicates increased temperature variation
+- December's max temperature is only 2&deg;F lower despite December's min temperature is 7&deg;F lower compared to June's 
 
 ## Summary
+From this statistical analysis, June can be seen to average 4 degrees warmer temperatures than December. This will overall lead to increased surf and ice cream shop business. The higher temperature variance in the month of December will slow business; but the max temperature being similar to June's indicates sales could stay solid during days when temperatures are within June's standard deviation of the mean (71.7&deg;F to 78.2&deg;F)
